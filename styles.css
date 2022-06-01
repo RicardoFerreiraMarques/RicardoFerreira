@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+#logo-audi{
+    margin-top: 15px;
+    width: 90px;
+    margin-left: 14px;
+   
+}
+#botao-one{
+    background:white;
+    color: #666666;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    border: 0;
+    cursor: pointer;
+    float: right;
+    margin-right: 50px;
+}
+#botao-two{
+    background:white;
+    color: #666666;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    border: 0;
+    cursor: pointer;
+    float: right;
+    margin-right: 50px;
+}
+#botao-trhee{
+    background:white;
+    color: #666666;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    border: 0;
+    cursor: pointer;
+    float: right;
+    margin-right: 50px;
+}
+#botao-four{
+    background:white;
+    color: #666666;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    border: 0;
+    cursor: pointer;
+    float: right;
+    margin-right: 50px;
+}
+#fundo{
+    width:1348px;
+}
+h1{
+    font: 28px AudiType,serif;
+    font-size: 50px;
+    margin-top: -650px;
+    color:#ffffff ;
+    margin-left: 20px;  
+}
+#paragrafo-one{
+    font: 28px AudiType,serif;
+    font-size: 20px;
+    margin-top: -500;
+    color:#ffffff ;
+    margin-left: 20px; 
+}
+#button-one{
+    margin-left: 27px;
+    margin-top: 20px;
+    color:black;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    cursor: pointer; 
+}
+#botao-pesquisa{
+    float: right;
+    margin-top: 18px;
+    margin-right: 19px;
+    border: 0;
+    cursor: pointer;
+}
+#r8{
+    width: 700px;
+    margin-top: 540px;
+    margin-left: 39px;
+}
+h2{
+    font: 28px AudiType,serif;
+    font-size: 40px;
+    margin-top: -340px;
+    color:black ;
+    margin-left: 760px;  
+}
+#paragrafo-two{
+    color: black;
+   display: block;
+   margin-left: 758px;
+   font-size: 12px;
+}
+#botao-six{
+    background-color: black;
+    color: white;
+    font: 28px AudiType,serif;
+    font-size: 16px;
+    margin-left: 760px;
+    margin-top: 35px;
+   padding-left: 48px;
+   padding-right: 48px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border: 0;
+   cursor: pointer;
+}
+#a4{
+    width: 700px;
+    margin-top: 280px;
+    margin-left: 39px;
+}
+h3{
+    font: 28px AudiType,serif;
+    font-size: 40px;
+    margin-top: -340px;
+    color:black ;
+    margin-left: 760px;  
+}
+#paragrafro-three{
+    color: black;
+   display: block;
+   margin-left: 758px;
+   font-size: 12px;
+}
+#botao-set{
+    background-color: black;
+    color: white;
+    font: 28px AudiType,serif;
+    font-size: 16px;
+    margin-left: 760px;
+    margin-top: 35px;
+   padding-left: 48px;
+   padding-right: 48px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border: 0;
+   cursor: pointer;  
+}
+#q3{
+    width: 700px;
+    margin-top: 280px;
+    margin-left: 39px;
+}
+h4{
+    font: 28px AudiType,serif;
+    font-size: 40px;
+    margin-top: -340px;
+    color:black ;
+    margin-left: 760px; 
+}
+#paragrafo-four{
+    color: black;
+   display: block;
+   margin-left: 758px;
+   font-size: 12px;
+}
+#botao-oito{
+    background-color: black;
+    color: white;
+    font: 28px AudiType,serif;
+    font-size: 16px;
+    margin-left: 760px;
+    margin-top: 35px;
+   padding-left: 48px;
+   padding-right: 48px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border: 0;
+   cursor: pointer;  
+}
+#fundo-preto{
+ background-color: black;
+ margin-top: 250px;
+ padding-top: 40px;
+ padding-bottom: 40px;
+ 
+}
+#face{
+    margin-top: -2000px;
+    margin-left: 620px;
+}
+#tw{
+    margin-left: 45px;
+}
